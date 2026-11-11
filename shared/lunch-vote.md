@@ -4,11 +4,7 @@
 
 ## 今月の1位
 
-<<<<<<< HEAD
 1位: 21F のカレー（大盛り）
-=======
-1位: 向かいのラーメン
->>>>>>> origin/exercise/conflict
 
 ## 投票一覧
 
@@ -16,3 +12,5 @@
 | --- | --- |
 | example-yamada | 21F のカレー |
 | example-suzuki | 向かいのラーメン |
+| example-npc | bun-cha |
+
